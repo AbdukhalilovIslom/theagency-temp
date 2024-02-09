@@ -1,0 +1,26 @@
+.sideBarLang {
+  display: flex;
+  align-items: center;
+  gap: 7px;
+  color: #CCC65A;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 110%;
+}
+
+.sidebarBtn {
+  color: #787878;
+  font-family: "Manrope";
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 110%;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 0;
+  min-width: auto;
+}
+.active {
+  color: #CCC65A;
+}
